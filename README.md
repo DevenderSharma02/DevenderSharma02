@@ -15,7 +15,8 @@
 
 - Driven by a passion for advancing semiconductor technology, I am eager to harness my skills and hands-on project experience in VLSI Design and Verification. My goal is to make a meaningful impact and excel in the dynamic world of semiconductor innovation.
 
-### How to reach me
+## How to Reach Me
+I’m always eager to connect with others who share an interest in technology, programming, and VLSI design. Whether you have a question, feedback, or just want to discuss exciting projects, I’d love to hear from you!
 
 - Gmail    : devendersharmaa7@gmail.com
 - Contact  : +91-8708761660
