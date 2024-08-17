@@ -1,4 +1,5 @@
-![Devender Sharma LinkedIn Banner](https://github.com/user-attachments/assets/884b2be9-a48c-4a00-a3ad-bf648c717795)
+
+![Copy of Devender Sharma LinkedIn Banner (1)](https://github.com/user-attachments/assets/afafab3c-8eb0-4187-8c5c-14aa5cf37e9b)
 
 # **𝐇𝐢𝐢, 𝐈 𝐚𝐦 𝐃𝐞𝐯𝐞𝐧𝐝𝐞𝐫 𝐒𝐡𝐚𝐫𝐦𝐚**
 ### VLSI Digital Design and Verification Engineer Aspirant
